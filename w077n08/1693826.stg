@@ -1,0 +1,5 @@
+OBJECT_BASE 1693826.btg
+OBJECT SKTU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.739436 8.069335 4.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.742135 8.077907 3.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -76.741254 8.073487 4.7 0.00

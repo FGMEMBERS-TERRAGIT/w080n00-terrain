@@ -1,0 +1,9 @@
+OBJECT_BASE 1676978.btg
+OBJECT SETU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.716392 0.803254 2934.5 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -77.706996 0.810947 2933.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.699554 0.815320 2923.2 0.00
+OBJECT SKIP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.679115 0.858290 2964.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.664410 0.865560 2971.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -77.672192 0.862697 2968.8 0.00

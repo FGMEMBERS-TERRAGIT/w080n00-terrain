@@ -1,0 +1,5 @@
+OBJECT_BASE 1709982.btg
+OBJECT SKIB.btg
+OBJECT_SHARED Models/Airport/windsock.xml -75.128098 4.416376 899.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.137565 4.425387 924.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -75.138100 4.423694 924.7 0.00

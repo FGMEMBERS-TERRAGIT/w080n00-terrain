@@ -1,0 +1,4 @@
+OBJECT_BASE 1792102.btg
+OBJECT SVPT.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.178731 7.572572 105.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.169922 7.578836 105.1 0.00

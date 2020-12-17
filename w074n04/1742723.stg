@@ -1,0 +1,4 @@
+OBJECT_BASE 1742723.btg
+OBJECT SKAP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -73.573914 4.077639 377.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -73.562222 4.078156 371.5 0.00
